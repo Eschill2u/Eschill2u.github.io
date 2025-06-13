@@ -67,8 +67,8 @@ R scripts to
 - derive fields for survey type, number observations with matching coordinates within the same survey period (to identify changes in procedure over time), and spatially joined lake attribute data pertaining to aircraft landability and rules
 
 R Quarto report with
--clear documentation of steps taken and modifications made to the raw dataset
--reproducible tables, plots, maps, images, and summaries exploring abundance and productivity over time, method consistency over time, spatial coverage consistency over time, outlier and duplicate observations to be reviewed for filtering, open versus closed lake usage, and considerations for lake occupancy analysis
+- clear documentation of steps taken and modifications made to the raw dataset
+- reproducible tables, plots, maps, images, and summaries exploring abundance and productivity over time, method consistency over time, spatial coverage consistency over time, outlier and duplicate observations to be reviewed for filtering, open versus closed lake usage, and considerations for lake occupancy analysis
 
 #### Kenai NWR Fire Impacts to Dall Sheep (*Ovis dalli dalli*) Research Project
 R Quarto report series (broken up 4 into parts) to
