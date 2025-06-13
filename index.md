@@ -14,14 +14,14 @@ title: Emma Schillerstrom
 *presented nationally at 2023 Inventory and Monitoring data manager meeting*
 
 An R Shiny application that 
-- monitors the progress of "Operation ServCat", a regional project intiated to preserve historic National Wildlife Refuge program documents, allowing NWR staff to track whether their goals are being met for making their refuge's information secure, accessible, discoverable, and documented
+- monitors the progress of "Operation ServCat", a regional project initiated to preserve historic National Wildlife Refuge program documents, allowing NWR staff to track whether their goals are being met for making their refuge's information secure, accessible, discoverable, and documented
 - interactively integrates data from ServCat, the USFWS national repository for data and documents, via API, summarizing and visualizing information for a selected refuge
 
 #### ServCat Dashboard for USFWS Region 7 Regional Office [(View GitHub)](https://github.com/USFWS/r7-opservcat-management-dashboard)
 *presented nationally at 2023 Inventory and Monitoring data manager meeting*
 
 An R Shiny application that
--  monitors the progress of "Operation ServCat", allowing Division of Natural Resouces staff to track whether regional data management progress goals are being met
+-  monitors the progress of "Operation ServCat", allowing Division of Natural Resources staff to track whether regional data management progress goals are being met
 -  integrates data from ServCat via API, summarizing and visualizing information related to partner contributions, rate of preservation, and progress over time among refuge stations (regionally) and regions (nationally)
 
 #### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
@@ -41,12 +41,12 @@ A Quarto report that
 
 An accompanying R Shiny application that
 - uses PRIMR data to predict expected surveys to be conducted during the current year
-- generates a reactive checklist table of all surveys at a refuge with priortization information for each survey, including time required, cost, survey timing, coordinator, Inventory and Monitoring Plan ranked prioty level, whether or not it is cooperative, and whether or not it pertains to priority resources of concern (pROCs)
+- generates a reactive checklist table of all surveys at a refuge with prioritization information for each survey, including time required, cost, survey timing, coordinator, Inventory and Monitoring Plan ranked priority level, whether or not it is cooperative, and whether or not it pertains to priority resources of concern (pROCs)
 - updates summary info (e.g., time per coordinator, total time and monetary costs, number of surveys) for the field season, depending on which surveys are selected in the checklist table
 
 ## National Wildlife Refuge (NWR) Data Workflows
 
-#### Teltin NWR Wood Bison (*Bison bison athabascae*) Reintroduction Habitat Assessment
+#### Tetlin NWR Wood Bison (*Bison bison athabascae*) Reintroduction Habitat Assessment
 R scripts with reusable functions to
 - compile and tidy large batches of individual snow probe data directly from third-party Propagation Labs Snow Scope app exports
 - plot individual snow hardness depth profiles in kPa or on a log-adjusted Hand Hardness scale
@@ -80,7 +80,7 @@ R Quarto report with
 #### Kenai NWR Fire Impacts to Dall Sheep (*Ovis dalli dalli*) Research Project
 R Quarto report series (broken up into 4 parts) to
 - provide introductory training to tidy data and R tidyverse
-- walk through coding steps (via human-readable annotations) required to explore and tidy sheep fecal parasite data directly from the fecal flotation results provided by the labratory
+- walk through coding steps (via human-readable annotations) required to explore and tidy sheep fecal parasite data directly from the fecal flotation results provided by the laboratory
 - visualize data with plots showing parasite load by species and comparing parasite presence between sheep grazing in burned versus unburned areas
 - visualize data with embedded, dynamic leaflet maps displaying parasite load relative to wildfire burn sites
 - provide instructions detailing how to run and reuse the code and functions
@@ -103,7 +103,7 @@ Reusable R functions to
 ## Other Languages (Python, Bash)
 
 #### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline
-Resuable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeline to
+Reusable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeline to
 - convert raw PacBio sequencing reads to HiFi reads using circular consensus sequencing
 - generate a quality report for the HiFi reads
 - run three genome assemblers
