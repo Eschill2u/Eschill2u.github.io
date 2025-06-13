@@ -8,7 +8,7 @@ title: Emma Schillerstrom
 
 #### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
-## Apps/Dashboards
+## Apps/Dashboards - still writing this section
 
 #### ServCat Dashboard for Refuge Managers
 An R Shiny application that 
@@ -29,6 +29,13 @@ A cross-regional R Shiny application that
 - produces summary reports of survey product preservation
 - generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases
 (presented nationally with multiple regions expressing interest in adoption)
+
+#### Pilot Study for Using PRIMR for Survey Review and Planning
+A Quarto report that
+- something
+
+A R Shiny application that
+- something
 
 ## National Wildlife Refuge (NWR) Data Workflows
 
@@ -80,18 +87,21 @@ Reusable R scripts to
 R scripts to 
 - compile and tidy 3 years of distance sampling data
 
-Reusable R code to 
+Reusable R functions to 
 - export an eBird checklist with ptarmigan and incidental bird observation data
 - calculate bird perpendicular distances and estimated observer path lengths from bearing, observer waypoint, and rangefinder data
-- for any given year, given a set of covariates, generate all possible models (to be replaced by *a priori* model list), fit detection functions, calculate bird densities, and generate an AIC table
+- for any given year, given a set of covariates, generate all possible models (to be replaced by *a priori* model list), fit detection functions, calculate bird densities, and generate an AIC table with weights
 - *COMING SOON* generate a fully automated, preservation-ready refuge report for any given year
 
 ## Other Languages (Python, Bash)
 
 #### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline
-2 Bash scripts and 1 Python script to
-- something and compare three genome assemblers
+Resuable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeline to
+- convert raw PacBio sequencing reads to HiFi reads using circular consensus sequencing
+- generate a quality report for the HiFi reads
+- run three genome assemblers
+- calculate and generate a table comparing various assembly metrics for all three assemblies in order to assess the success of each assembler with regard to contiguity, correctness, completeness, and computation
 
 #### *IN PROGRESS* Streamlining Document Selection for Preservation
-Python script to
+Reusable Python script to
 - streamline the initial process for preserving large (>100,000) batches of historic digital files by automating parsing through file directories, eliminating empty folders, and selecting and organizing the files by file types identified as appropriate for repository preservation
