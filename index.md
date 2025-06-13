@@ -2,23 +2,35 @@
 title: Emma Schillerstrom
 ---
 
-# Presentations (Quarto revealjs)
+## Presentations (Quarto revealjs)
 
 #### Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
 
 #### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
-# Apps/Dashboards
+## Apps/Dashboards
 
-#### ServCat Shiny Dashboard for Refuge Managers
-Two R Shiny dashboards which call APIs to visualize data from national FWS databases and monitor regional data management progress; dashboards hosted on PositConnect and uploaded to USFWS GitHub; presented at 2023 national Inventory and Monitoring data manager meeting
+#### ServCat Dashboard for Refuge Managers
+An R Shiny application that 
+- monitors the progress of "Operation ServCat", a USWFS Region 7 (Alaska) project intiated to preserve historic National Wildlife Refuge (NWR) documents, allowing NWR staff to track whether their goals are being met for making their refuges information secure, accessible, discoverable, and documented
+- integrates data from ServCat, the USFWS national repository for data and documents, via API
+- summarizes and visualizes information for a selected refuge
+presented at 2023 national Inventory and Monitoring data manager meeting
 
-#### ServCat Shiny Dashboard for Regional Office
+#### ServCat Dashboard for Regional Office
+An R Shiny application that
+-  monitors the progress of "Operation ServCat", allowing Division of Natural Resouces staff to track whether regional data management progress goals are being met
+-  integrates data from ServCat via API
+-  summarizes and visualizes information related to partner contributions, rate of preservation, and progress over time
+presented at 2023 national Inventory and Monitoring data manager meeting
 
 #### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
-Cross-regional R Shiny app that produces summary reports of survey product preservation and generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases; presented nationally with multiple regions expressing interest in adoption
+A cross-regional R Shiny application that
+- produces summary reports of survey product preservation
+- generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases
+(presented nationally with multiple regions expressing interest in adoption)
 
-# National Wildlife Refuge (NWR) Data Workflows
+## National Wildlife Refuge (NWR) Data Workflows
 
 #### Teltin NWR Wood Bison (*Bison bison athabascae*) Reintroduction Habitat Assessment
 R scripts with reusable functions to
@@ -74,7 +86,7 @@ Reusable R code to
 - for any given year, given a set of covariates, generate all possible models (to be replaced by *a priori* model list), fit detection functions, calculate bird densities, and generate an AIC table
 - *COMING SOON* generate a fully automated, preservation-ready refuge report for any given year
 
-# Other Languages (Python, Bash)
+## Other Languages (Python, Bash)
 
 #### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline
 2 Bash scripts and 1 Python script to
