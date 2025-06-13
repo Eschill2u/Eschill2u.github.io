@@ -102,7 +102,7 @@ Reusable R functions to
 
 ## Other Languages (Python, Bash)
 
-#### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline
+#### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline <a href="docs/assets/assembly_pipeline.zip" download>Download</a>
 Reusable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeline to
 - convert raw PacBio sequencing reads to HiFi reads using circular consensus sequencing
 - generate a quality report for the HiFi reads
