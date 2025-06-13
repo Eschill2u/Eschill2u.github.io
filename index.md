@@ -27,6 +27,7 @@ Reusable R scripts to
 #### Tetlin NWR Trumpeter Swan (*Cygnus buccinator*) Census Survey
 R scripts to
 - compile and tidy newly-collected data with historic (36 years) Migratory Bird Program data
+
 R Quarto report to
 - perform exploratory data analysis, providing summary tables, correlation matrices, and visualizations for abundance and productivity information
 - compare datasets subsetted by percent volume contours, USGS quadrangles, or flightpath buffers
