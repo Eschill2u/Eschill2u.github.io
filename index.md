@@ -12,14 +12,24 @@ title: Emma Schillerstrom
 ### National Wildlife Refuge (NWR) Data Workflows
 
 ##### Teltin NWR Wood Bison (*Bison bison athabascae*) Reintroduction Habitat Assessment
-Reusable R functions to compile, tidy, summarize, and visualize hundreds of snow probe depth profiles from Propagation Labs Snow Scope app exports
+R scripts with reusable functions to
+- compile and tidy hundreds of individual snow probe data directly from third-party Propagation Labs Snow Scope app exports
+- plot individual snow hardness depth profiles in kPa or on a log-adjusted Hand Hardness scale
+- plot averaged (with error bands) snow hardness depth profiles for pooled plots or sites
 
 ##### Tetlin NWR Snowshoe Hare (*Lepus americanus*) Monitoring Survey
-R scripts to compile, tidy, and summarize 33 years of hare pellet data and visualize the population cycle via a density time series plot
+Reusable R scripts to 
+- compile, tidy, and generate summary tables for all 33 years of historic hare pellet data
+- calculate hare densities and 
+- visualize the population cycle via a density time series plot
 
 ##### Tetlin NWR Trumpeter Swan (*Cygnus buccinator*) Census Survey
-- R scripts and an annotated R Quarto report which compile, tidy, summarize, visualize, and report on 37 years of abundance and productivity data
-- Maps and geospatial analyses in ArcGIS Pro to compare data subsetted by percent volume contours, USGS quadrangles, and flightpath buffers
+R scripts to
+- compile and tidy newly-collected data with historic (36 years) Migratory Bird Program data
+R Quarto report to
+- perform exploratory data analysis, providing summary tables, correlation matrices, and visualizations for abundance and productivity information
+- compare datasets subsetted by percent volume contours, USGS quadrangles, or flightpath buffers
+- provide automated summary blurb with inline code calculations
 
 ##### Kenai NWR Trumpeter Swan (*Cygnus buccinator*) Monitoring Survey
 R scripts to compile, tidy, and QC 67 years of data
