@@ -11,29 +11,29 @@ title: Emma Schillerstrom
 ## Apps/Dashboards
 
 #### ServCat Dashboard for USFWS Region 7 National Wildlife Refuge Managers [(View GitHub)](https://github.com/USFWS/r7-opservcat-refuge-dashboard)
-<a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*presented nationally at 2023/24 Inventory and Monitoring data manager meetings*</a>
+*presented nationally at * <a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*2023/24 Inventory and Monitoring data manager meetings*</a>
 
 An R Shiny application that 
 - monitors the progress of "Operation ServCat", a regional project initiated to preserve historic National Wildlife Refuge program documents, allowing NWR staff to track whether their goals are being met for making their refuge's information secure, accessible, discoverable, and documented
 - interactively integrates data from ServCat, the USFWS national repository for data and documents, via API, summarizing and visualizing information for a selected refuge
 
 #### ServCat Dashboard for USFWS Region 7 Regional Office [(View GitHub)](https://github.com/USFWS/r7-opservcat-management-dashboard)
-<a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*presented nationally at 2023/24 Inventory and Monitoring data manager meetings*</a>
+*presented nationally at * <a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*2023/24 Inventory and Monitoring data manager meetings*</a>
 
 An R Shiny application that
 -  monitors the progress of "Operation ServCat", allowing Division of Natural Resources staff to track whether regional data management progress goals are being met
 -  integrates data from ServCat via API, summarizing and visualizing information related to partner contributions, rate of preservation, and progress over time among refuge stations (regionally) and regions (nationally)
 
 #### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
-<a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*presented nationally at 2024 Inventory and Monitoring data manager meeting*</a>
+*presented nationally at * <a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*2024 Inventory and Monitoring data manager meeting*</a>
 
 A cross-regional R Shiny application that
 - integrates data from ServCat and PRIMR, the USFWS national NWR survey management database, via API
 - produces summary reports of data assets preserved for each wildlife survey pertaining to a selected region, refuge, and/or survey coordinator
 - generates downloadable data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from the ServCat database for use in succession planning
 
-#### Pilot Study for Using PRIMR data for Survey Review and Planning <a href="docs/assets/tetlin_year_reviw_report.html" download>(Preview)</a>
-<a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*presented nationally at 2024 Inventory and Monitoring data manager meeting*</a>
+#### Pilot Study for Using PRIMR data for Survey Review and Planning <a href="docs/assets/tetlin_year_review_report.html" download>(Preview)</a>
+*presented nationally at * <a href="docs/assets/data_manager_meeting_pres_2024.pdf" download>*2024 Inventory and Monitoring data manager meeting*</a>
 
 A Quarto report that
 - details the utilities and limitations of using PRIMR for reviewing survey accomplishments and conducting work planning, such as selecting and prioritizing surveys for data collection, using Tetlin NWR as a test case
