@@ -8,9 +8,7 @@ title: Emma Schillerstrom
 
 #### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
-# Scripts, Applications, and Code-Based Reports
-
-## USFWS Apps/Dashboards
+# Apps/Dashboards
 
 #### ServCat Shiny Dashboard for Refuge Managers
 Two R Shiny dashboards which call APIs to visualize data from national FWS databases and monitor regional data management progress; dashboards hosted on PositConnect and uploaded to USFWS GitHub; presented at 2023 national Inventory and Monitoring data manager meeting
@@ -20,7 +18,7 @@ Two R Shiny dashboards which call APIs to visualize data from national FWS datab
 #### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
 Cross-regional R Shiny app that produces summary reports of survey product preservation and generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases; presented nationally with multiple regions expressing interest in adoption
 
-## National Wildlife Refuge (NWR) Data Workflows
+# National Wildlife Refuge (NWR) Data Workflows
 
 #### Teltin NWR Wood Bison (*Bison bison athabascae*) Reintroduction Habitat Assessment
 R scripts with reusable functions to
@@ -66,22 +64,22 @@ Reusable R scripts to
 - tidy entered data
 - automate filling out the state Aquatic Resources Permit (ARP) [reporting form,](https://www.adfg.alaska.gov/index.cfm?adfg=otherlicense.aquatic_reports) eliminating weeks of manual data entry for over 43,000 fish by staff in 2024 and any time spent on this task in future years
 
-#### (*In Progress*) Alaska Peninsula/Becharof NWR Willow Ptarmigan (*Lagopus lagopus*) Monitoring Survey
+#### *IN PROGRESS* Alaska Peninsula/Becharof NWR Willow Ptarmigan (*Lagopus lagopus*) Monitoring Survey
 R scripts to 
 - compile and tidy 3 years of distance sampling data
 
 Reusable R code to 
 - export an eBird checklist with ptarmigan and incidental bird observation data
 - calculate bird perpendicular distances and estimated observer path lengths from bearing, observer waypoint, and rangefinder data
-- given a set of covariates, generate all possible models, fit detection functions, calculate bird densities, and generate an AIC table for model selection for any given year
+- for any given year, given a set of covariates, generate all possible models (to be replaced by *a priori* model list), fit detection functions, calculate bird densities, and generate an AIC table
 - *COMING SOON* generate a fully automated, preservation-ready refuge report for any given year
 
-## Other
+# Other Languages (Python, Bash)
 
 #### DFP Bioinformatics Project: Black Carp Genome Assembly Pipeline
 2 Bash scripts and 1 Python script to
 - something and compare three genome assemblers
 
-#### (*In Progress*) Streamlining Document Selection for Preservation
+#### *IN PROGRESS* Streamlining Document Selection for Preservation
 Python script to
-- streamline the initial process for preserving large (>100,000) batches of historic digital files by automating parsing through file directories, eliminating empty folders, and selecting and organizing the file types appropriate for repository preservation
+- streamline the initial process for preserving large (>100,000) batches of historic digital files by automating parsing through file directories, eliminating empty folders, and selecting and organizing the files by file types identified as appropriate for repository preservation
