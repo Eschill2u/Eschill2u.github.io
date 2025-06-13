@@ -1,8 +1,3 @@
----
-title: Emma Schillerstrom
-layout: default
----
-
 ## Presentations
 
 ##### Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
