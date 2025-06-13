@@ -2,13 +2,23 @@
 title: Emma Schillerstrom
 ---
 
-# Presentations
+# Presentations (Quarto revealjs)
 
-Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
+#### Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
 
-Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
+#### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
-# Technical Products
+# Scripts, Applications, and Code-Based Reports
+
+## USFWS Apps/Dashboards
+
+#### ServCat Shiny Dashboard for Refuge Managers
+Two R Shiny dashboards which call APIs to visualize data from national FWS databases and monitor regional data management progress; dashboards hosted on PositConnect and uploaded to USFWS GitHub; presented at 2023 national Inventory and Monitoring data manager meeting
+
+#### ServCat Shiny Dashboard for Regional Office
+
+#### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
+Cross-regional R Shiny app that produces summary reports of survey product preservation and generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases; presented nationally with multiple regions expressing interest in adoption
 
 ## National Wildlife Refuge (NWR) Data Workflows
 
@@ -65,16 +75,6 @@ Reusable R code to
 - calculate bird perpendicular distances and estimated observer path lengths from bearing, observer waypoint, and rangefinder data
 - given a set of covariates, generate all possible models, fit detection functions, calculate bird densities, and generate an AIC table for model selection for any given year
 - *COMING SOON* generate a fully automated, preservation-ready refuge report for any given year
-
-## USFWS Apps/Dashboards
-
-#### ServCat Shiny Dashboard for Refuge Managers
-Two R Shiny dashboards which call APIs to visualize data from national FWS databases and monitor regional data management progress; dashboards hosted on PositConnect and uploaded to USFWS GitHub; presented at 2023 national Inventory and Monitoring data manager meeting
-
-#### ServCat Shiny Dashboard for Regional Office
-
-#### Survey Product Preservation Monitoring App [(View GitHub)](https://github.com/USFWS/check-survey-preservation)
-Cross-regional R Shiny app that produces summary reports of survey product preservation and generates data asset inventory Excel workbooks with custom dropdown lists and auto-filled data from FWS databases; presented nationally with multiple regions expressing interest in adoption
 
 ## Other
 
