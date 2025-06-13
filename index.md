@@ -71,7 +71,7 @@ R Quarto report with
 - reproducible tables, plots, maps, images, and summaries exploring abundance and productivity over time, method consistency over time, spatial coverage consistency over time, outlier and duplicate observations to be reviewed for filtering, open versus closed lake usage, and considerations for lake occupancy analysis
 
 #### Kenai NWR Fire Impacts to Dall Sheep (*Ovis dalli dalli*) Research Project
-R Quarto report series (broken up 4 into parts) to
+R Quarto report series (broken up into 4 parts) to
 - provide introductory training to tidy data and R tidyverse
 - walk through coding steps (via human-readable annotations) required to explore and tidy sheep fecal parasite data directly from the fecal flotation results provided by the labratory
 - visualize data with plots showing parasite load by species and comparing parasite presence between sheep grazing in burned versus unburned areas
