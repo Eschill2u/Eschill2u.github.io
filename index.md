@@ -105,3 +105,12 @@ Resuable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeli
 #### *IN PROGRESS* Streamlining Document Selection for Preservation
 Reusable Python script to
 - streamline the initial process for preserving large (>100,000) batches of historic digital files by automating parsing through file directories, eliminating empty folders, and selecting and organizing the files by file types identified as appropriate for repository preservation
+
+## Research Posters and Presentations
+
+#### Undergradtuate Senior Research Honors Thesis Poster (2022)
+<a href="docs/assets/undergrad_senior_thesis_2022.pdf" download>Physiological Impacts of Heavy Metals in the Blood of Blacktip Sharks (*Carcharhinus limabtus*) in Biscayne Bay, Florida</a>
+
+#### USFWS Directorate Fellows Program (DFP) Final Presentation (2021)
+
+#### High School Senior Thesis Poster (2018)
