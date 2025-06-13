@@ -4,20 +4,20 @@ title: Emma Schillerstrom
 
 ## Technical Presentations (Quarto revealjs)
 
-Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
+#### Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
 
-Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
+#### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
 ## Apps/Dashboards
 
-#### ServCat Dashboard for USFWS Region 7 National Wildlife Refuge Managers
+#### ServCat Dashboard for USFWS Region 7 National Wildlife Refuge Managers [(View GitHub)](https://github.com/USFWS/r7-opservcat-refuge-dashboard)
 *presented nationally at 2023 Inventory and Monitoring data manager meeting*
 
 An R Shiny application that 
 - monitors the progress of "Operation ServCat", a regional project intiated to preserve historic National Wildlife Refuge program documents, allowing NWR staff to track whether their goals are being met for making their refuge's information secure, accessible, discoverable, and documented
 - interactively integrates data from ServCat, the USFWS national repository for data and documents, via API, summarizing and visualizing information for a selected refuge
 
-#### ServCat Dashboard for USFWS Region 7 Regional Office
+#### ServCat Dashboard for USFWS Region 7 Regional Office [(View GitHub)](https://github.com/USFWS/r7-opservcat-management-dashboard)
 *presented nationally at 2023 Inventory and Monitoring data manager meeting*
 
 An R Shiny application that
@@ -41,7 +41,7 @@ A Quarto report that
 
 An accompanying R Shiny application that
 - uses PRIMR data to predict expected surveys to be conducted during the current year
-- generates a reactive checklist table of all surveys at a refuge with priortization information for each survey (time required, cost, survey timing, coordinator, Inventory and Monitoring Plan ranked prioty level, whether or not it is cooperative, whether or not it pertains to priority resources of concern (pROCs)
+- generates a reactive checklist table of all surveys at a refuge with priortization information for each survey, including time required, cost, survey timing, coordinator, Inventory and Monitoring Plan ranked prioty level, whether or not it is cooperative, and whether or not it pertains to priority resources of concern (pROCs)
 - updates summary info (e.g., time per coordinator, total time and monetary costs, number of surveys) for the field season, depending on which surveys are selected in the checklist table
 
 ## National Wildlife Refuge (NWR) Data Workflows
@@ -90,7 +90,7 @@ Reusable R scripts to
 - tidy entered data
 - automate filling out the state Aquatic Resources Permit (ARP) [reporting form,](https://www.adfg.alaska.gov/index.cfm?adfg=otherlicense.aquatic_reports) eliminating weeks of manual data entry for over 43,000 fish by staff in 2024 and any time spent on this task in future years
 
-#### *IN PROGRESS* Alaska Peninsula/Becharof NWR Willow Ptarmigan (*Lagopus lagopus*) Monitoring Survey
+#### Alaska Peninsula/Becharof NWR Willow Ptarmigan (*Lagopus lagopus*) Monitoring Survey (*In Progress*)
 R scripts to 
 - compile and tidy 3 years of distance sampling data
 
@@ -109,7 +109,7 @@ Resuable 3-script (2 Bash (1 SLURM job script, 1 shell script), 1 Python) pipeli
 - run three genome assemblers
 - calculate and generate a table comparing various assembly metrics for all three assemblies in order to assess the success of each assembler with regard to contiguity, correctness, completeness, and computation
 
-#### *IN PROGRESS* Streamlining Document Selection for Preservation
+#### Streamlining Document Selection for Preservation (*In Progress*)
 Reusable Python script to
 - streamline the initial process for preserving large (>100,000) batches of historic digital files by automating parsing through file directories, eliminating empty folders, and selecting and organizing the files by file types identified as appropriate for repository preservation
 
@@ -125,4 +125,4 @@ Reusable Python script to
 <a href="docs/assets/highschool_senior_thesis_2018.pdf" download>Analysis of Deceased *Limulus polyphemus* to Find Causes of Mortality on Wallops Island</a>
 
 #### Biotechnology Research Internship Poster (2016)
-
+<a href="docs/assets/ibbr_2016.pdf" download>Expression and Purification of Human IL-7 to Study its Immunological Properties</a>
