@@ -4,7 +4,7 @@ title: Emma Schillerstrom
 
 ## Technical Presentations (Quarto revealjs)
 
-#### Reproducible Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
+#### Reproducible Data Workflows in R [(View GitHub)](https://github.com/USFWS/data-workflow-presentation)
 
 #### Introduction to Quarto [(View GitHub)](https://github.com/USFWS/intro-to-quarto)
 
