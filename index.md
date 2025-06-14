@@ -116,7 +116,7 @@ Reusable Python script to
 ## Research Posters and Presentations
 
 #### Undergraduate Senior Research Honors Thesis Poster (2022)
-<a href="docs/assets/undergrad_senior_thesis_2022.pdf" download>Physiological Impacts of Heavy Metals in the Blood of Blacktip Sharks (*Carcharhinus limabtus*) in Biscayne Bay, Florida</a>
+<a href="docs/assets/undergrad_senior_thesis_2022.pdf" download>Physiological Impacts of Heavy Metals in the Blood of Blacktip Sharks (*Carcharhinus limbatus*) in Biscayne Bay, Florida</a>
 
 #### USFWS Directorate Fellows Program (DFP) Final Presentation (2021)
 <a href="docs/assets/dfp_2021.pdf" download>Genome Assembly for Invasive Black Carp (*Mylopharyngodon piceus*) Biocontrol</a>
